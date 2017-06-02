@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>open.png</file>
+        <file>question.png</file>
+    </qresource>
+</RCC>
